@@ -23,3 +23,10 @@ URL
 helps to retrace steps, gives attribution, go back and recreate processes
 
 how to cite ChatGPT
+
+What is a Computer? 
+Takes instructions, follows, takes input, does process, gives output. Only as smart as the instructions its been given.
+
+Levels of Abstraction - amount of complexity by whicha system is viewed or programmed
+don't necessarily need to understand how the software works
+just how to get information into and out of the database
