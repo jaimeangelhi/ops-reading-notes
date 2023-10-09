@@ -17,3 +17,9 @@ Tools to use
 5. Canvas
 6. Zoom
    
+I used the following script in today's lab
+URL
+
+helps to retrace steps, gives attribution, go back and recreate processes
+
+how to cite ChatGPT
