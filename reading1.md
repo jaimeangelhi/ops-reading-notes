@@ -4,29 +4,25 @@
 
 ### Reading #1
 
-Growth Mind Set - How can I keep a growth mind set
-1. this
-2. this
-3. or this
+The reading assignment was very eye-opening to see the importance of supply chain management especially as it pertains to computer hardware components.  Computers and processors/servers are integrated into every part of life, and if they are compromised, daily life and everyday functions can be disrupted and devastated.
 
-Tools to use
-1. Friends
-2. Instructors
-3. TA's
-4. Slack
-5. Canvas
-6. Zoom
+1. How is a hardware hack different than a software hack?
+
+Hardware hacks leave a "physical" bread crumb trail through the various components that have been affected amidst the supply chain.
    
-I used the following script in today's lab
-URL
+2. What are the two ways for spies to alter a computer’s hardware?
 
-helps to retrace steps, gives attribution, go back and recreate processes
+Interdiction - manipulating devices while in transit from manufacturer to customer
+Seeding attack - changing components of devices during beginning manufacture
 
-how to cite ChatGPT
+3. Explain how the hack worked.
 
-What is a Computer? 
-Takes instructions, follows, takes input, does process, gives output. Only as smart as the instructions its been given.
+The various spies infiltrated the manufacturing plants and either bribed or coerced the factory management/workers to comply with the addition of various chip components to the supermicro servers being manufactured in China/Taiwan. The chips were very insignificant and difficult to detect, but allowed remote access into the servers processing to then communicate with a more effective and powerful processor located in a different device.
 
-Levels of Abstraction - amount of complexity by whicha system is viewed or programmed
-don't necessarily need to understand how the software works
-just how to get information into and out of the database
+4. How were investigators able to trace the chips back to the source?
+
+They looked upstream at the supply chain in reverse, locating the different shipping companies, then manufacturers, and eventually the subcontractors that were enlisted to complete the servers.
+
+## Things I want to know more about
+
+How to identify tiny chips that don't belong; other areas of basic intrusion and component manipulation.
