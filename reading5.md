@@ -18,6 +18,8 @@ Relative paths are relative to the location you are to the location you came fro
 
 cmd, / ~ pwd cd mv file.txt
 
+(https://ubuntu.com/tutorials/command-line-for-beginners#3-opening-a-terminal) most commands and answers derived from the reading.
+
 ## Things I want to know more about
 
 more of the commands and basics.
