@@ -9,4 +9,6 @@ Ops 102
 - [Reading 4](reading4.md)
 - [Reading 5](reading5.md)
 - [Reading 6](reading6.md)
-    
+- [Reading 7](reading7.md)
+- [Reading 8](reading8.md)
+      
