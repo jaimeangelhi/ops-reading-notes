@@ -12,3 +12,7 @@ Ops 102
 - [Reading 7](reading7.md)
 - [Reading 8](reading8.md)
 - [Reading 9](reading9.md)      
+
+Ops 201
+
+- [AI and Prompt Engineering](prompt-engineering.md)
