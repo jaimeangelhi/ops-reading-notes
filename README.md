@@ -1,7 +1,7 @@
-# ops-reading-notes
+# Reading Notes
 My Ops Reading Notes Repo.
 
-Ops 102
+## Ops 102: Intro to Computer Operations
 
 - [Reading 1](reading1.md)
 - [Reading 2](reading2.md)
@@ -13,7 +13,7 @@ Ops 102
 - [Reading 8](reading8.md)
 - [Reading 9](reading9.md)      
 
-Ops 201
+## Ops 201: Foundations of Computer Operations
 
 - [AI and Prompt Engineering](prompt-engineering.md)
 - [Reading 1](ops-201d14-reading-01.md)
@@ -22,4 +22,6 @@ Ops 201
 - [Reading 4](ops-201d14-reading-04.md)
 - [Reading 5](ops-201d14-reading-05.md)
   
-  
+## Ops 301: Networking and Systems Administration
+
+## Ops 401: Cybersecurity Engineering
