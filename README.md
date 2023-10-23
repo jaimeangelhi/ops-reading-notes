@@ -17,4 +17,9 @@ Ops 201
 
 - [AI and Prompt Engineering](prompt-engineering.md)
 - [Reading 1](ops-201d14-reading-01.md)
+- [Reading 2](ops-201d14-reading-02.md)
+- [Reading 3](ops-201d14-reading-03.md)
+- [Reading 4](ops-201d14-reading-04.md)
+- [Reading 5](ops-201d14-reading-05.md)
+  
   
