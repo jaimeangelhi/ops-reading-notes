@@ -16,3 +16,5 @@ Ops 102
 Ops 201
 
 - [AI and Prompt Engineering](prompt-engineering.md)
+- [Reading 1](ops-201d14-reading-01.md)
+  
