@@ -19,3 +19,22 @@ As far ad cultural background, I would moreso consider the user's application of
 ## Things I want to know more about
 
 Good knowledge bases for future troubleshooting resolution.
+
+## Notes on the lectures
+
+arrays - assigned to a couple different variables
+
+snacks=["skittles" "pop tarts" "snickers" "tamales" "kit kat"]
+bash just separated by spaces but other thngs may be separated by commas, etc.  index 0 is the start - skittles, 1- pop tarts, 2-snickers, 3-tamales, 4- kit kat ... but 5 items total
+
+to access skittles, echo snacks[0]
+to access kit kat, echo snacks[4]
+
+
+variables
+
+snack="skittles"
+
+snacks=[]
+
+echo $snack
