@@ -21,6 +21,12 @@ My Ops Reading Notes Repo.
 - [Reading 3](ops-201d14-reading-03.md)
 - [Reading 4](ops-201d14-reading-04.md)
 - [Reading 5](ops-201d14-reading-05.md)
+- [Reading 6](ops-201d14-reading-06.md)
+- [Reading 7](ops-201d14-reading-07.md)
+- [Reading 8](ops-201d14-reading-08.md)
+- [Reading 9](ops-201d14-reading-09.md)
+- [Reading 10](ops-201d14-reading-10.md)
+
   
 ## Ops 301: Networking and Systems Administration
 
