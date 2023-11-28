@@ -30,4 +30,15 @@ My Ops Reading Notes Repo.
   
 ## Ops 301: Networking and Systems Administration
 
+- [Reading 1](ops-301d14-reading-01.md)
+- [Reading 2](ops-301d14-reading-02.md)
+- [Reading 3](ops-301d14-reading-03.md)
+- [Reading 4](ops-301d14-reading-04.md)
+- [Reading 5](ops-301d14-reading-05.md)
+- [Reading 6](ops-301d14-reading-06.md)
+- [Reading 7](ops-301d14-reading-07.md)
+- [Reading 8](ops-301d14-reading-08.md)
+- [Reading 9](ops-301d14-reading-09.md)
+- [Reading 10](ops-301d14-reading-10.md)
+
 ## Ops 401: Cybersecurity Engineering
