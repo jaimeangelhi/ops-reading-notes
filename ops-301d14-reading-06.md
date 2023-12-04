@@ -18,7 +18,8 @@ If no address is left in the pool configured then the packets will be dropped an
 
 4.What disadvantage does using NAT pose for routers?
 
-
+Translation makes delays while switching paths, certain functions don't work when NAT enabled, IPSec gets more complicated (and other tunneling protocols), "Also, the router being a network layer device, should not tamper with port numbers(transport layer) but it has to do so because of NAT."
 
 ## Things I want to know more about
 
+How is this best utilized.
