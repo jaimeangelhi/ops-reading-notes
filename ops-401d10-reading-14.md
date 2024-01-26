@@ -6,7 +6,7 @@ Two differences between firewalls and an IDS or Intrusion Detection Systems incl
 
 2. Under what circumstances would you choose a network-based IDS over a host-based IDS?
 
-
+I would choose a network-based IDS over a host-based IDS in the event that 
 
 3. Name 3 major drawbacks of a NIDS?
 
