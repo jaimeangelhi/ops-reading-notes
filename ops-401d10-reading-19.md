@@ -2,7 +2,7 @@
 
 1. What are some of the IoCs that GuardDuty can detect?
 
-
+Some of the indicators of compromise (IoCs) that GuardDuty can detect
 
 2. What are some of the data sources which GuardDuty can use?
 
